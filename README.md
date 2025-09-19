@@ -29,7 +29,7 @@ Consultor principal en RedSecure Spa, especializado en soluciones TI, cibersegur
 
 ## 📬 Contacto
 - 🌐 
-- 📧 Correo: alex@redsecure.cl
+- 📧 Correo: asuazo90@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/alexjaimesuazo]([https://linkedin.com/in/alexjaimesuazo](https://www.linkedin.com/in/alexsuazomiranda/))
 
 
